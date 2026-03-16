@@ -308,7 +308,7 @@ Cross-page multi-select country filter applied to all datasets.
 
 ## Key Business Insights
 
-**Printed dashboards:** [E-Commerce Platform Analytics (PDF 1)](@dashboards/E-Commerce Platform Analytics 2026-03-16 05_23.pdf) and [E-Commerce Platform Analytics (PDF 2)](@dashboards/E-Commerce Platform Analytics 2.pdf).
+**Printed dashboards:** [E-Commerce Platform Analytics (PDF 1)](dashboards/ECom_Dashboard_Overview.pdf) and [E-Commerce Platform Analytics (PDF 2)](dashboards/ECom_Dashboard_Business_Insights.pdf).
 
 1. **Massive seller activation opportunity** — 97.9% of users have never sold anything. Only 119 users qualify as "Power Sellers" (5+ products sold).
 
