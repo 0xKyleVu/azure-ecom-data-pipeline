@@ -22,7 +22,7 @@ An end-to-end data engineering project built on **Azure Databricks** implementin
 
 ## Architecture
 
-![Azure E-Commerce Data Architecture](architectures/Azure Ecom Data Architecture.png)
+![Azure E-Commerce Data Architecture](architectures/Azure_Ecom_Data_Architecture.png)
 
 High-level flow from ingestion to serving:
 
